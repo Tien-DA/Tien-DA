@@ -20,28 +20,6 @@
   <a target="_blank" href="https://public.tableau.com/app/profile/dinh.tien.vu/vizzes" style="display: inline-block;"><img src="https://img.shields.io/badge/tableau-logo?style=for-the-badge&logo=tableau&logoColor=white&color=%23E97627" alt="Tableau" /></a>
 </p>
 
-## 📌 Pinned Projects
-
-### [📌 Project 1: COVID-19 Data Exploration](https://github.com/DinhTienVu-TUDarmstadt/SQL-Data-Exploration-Mini-Project)
-- 🔹 **Description:** Using SQL Server to analyze global COVID-19 data from 2020-2021.
-- 🔹 **Technology:** SQL Server.
-- 🔹 **Key Features:**
-  - Exploring COVID-19 data trends worldwide.
-  - Performing complex queries to extract insights.
-  - Data visualization for better understanding.
-
----
-
-### [📌 Project 2: Movie Revenue Data Cleaning](https://github.com/DinhTienVu-TUDarmstadt/Movie-Correlation-Project)
-- 🔹 **Description:** Learning how to clean databases using Python and analyzing variables affecting movie gross revenue.
-- 🔹 **Technology:** Python, Pandas.
-- 🔹 **Key Features:**
-  - Cleaning and preprocessing movie industry datasets.
-  - Identifying factors influencing box office revenue.
-  - Using data visualization for better insights.
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DinhTienVu-TUDarmstadt/DinhTienVu-TUDarmstadt/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DinhTienVu-TUDarmstadt/DinhTienVu-TUDarmstadt/output/github-snake.svg" />
