@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Dinh Tien Vu, an IT-Student at TU Darmstadt 👋🏼
 🛜 currently working on my own [Portfolio](https://dinhtienvu-tudarmstadt.github.io/DinhTienVu-Portfolio.github.io/index.html)<br>👨🏼‍🎓 studying Information Technology at TU Darmstadt <br>👨🏼‍💻 finding a working-student job as a data analysis <br>
