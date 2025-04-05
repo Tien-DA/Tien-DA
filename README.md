@@ -1,12 +1,12 @@
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Tien, an IT-Student at TU Darmstadt 👋🏼
-🛜 currently working on my own [Portfolio](https://dinhtienvu-tudarmstadt.github.io/DinhTienVu-Portfolio.github.io/index.html)<br>👨🏼‍🎓 studying Information Technology at TU Darmstadt <br>👨🏼‍💻 finding a working-student job as a data analysis <br>
+🛜 currently working on my own [Portfolio](https://tien-da.github.io/dinhtienvu.github.io/index.html)<br>👨🏼‍🎓 studying Information Technology at TU Darmstadt <br>👨🏼‍💻 finding a working-student job as a data analysis <br>
 
 
 <div align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=DinhTienVu-TUDarmstadt&show_icons=true&locale=en&theme=dracula&include_all_commits=true" alt="DinhTienVu-TUDarmstadt" />
-  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=DinhTienVu-TUDarmstadt&theme=dracula" alt="DinhTienVu-TUDarmstadt" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Tien-DA&show_icons=true&locale=en&theme=dracula&include_all_commits=true" alt="Tien-DA" />
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Tien-DA&theme=dracula" alt="Tien-DA" />
 </div>
 
 ## 🚀 Languages and Tools I Use
